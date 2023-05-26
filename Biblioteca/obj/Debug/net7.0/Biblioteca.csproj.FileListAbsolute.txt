@@ -1,0 +1,12 @@
+/home/aluno/Documentos/LUAN SIMOES/PWA/2BIMESTRE/aula_26-05-23/Biblioteca/obj/Debug/net7.0/Biblioteca.csproj.AssemblyReference.cache
+/home/aluno/Documentos/LUAN SIMOES/PWA/2BIMESTRE/aula_26-05-23/Biblioteca/obj/Debug/net7.0/Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+/home/aluno/Documentos/LUAN SIMOES/PWA/2BIMESTRE/aula_26-05-23/Biblioteca/obj/Debug/net7.0/Biblioteca.AssemblyInfoInputs.cache
+/home/aluno/Documentos/LUAN SIMOES/PWA/2BIMESTRE/aula_26-05-23/Biblioteca/obj/Debug/net7.0/Biblioteca.AssemblyInfo.cs
+/home/aluno/Documentos/LUAN SIMOES/PWA/2BIMESTRE/aula_26-05-23/Biblioteca/obj/Debug/net7.0/Biblioteca.csproj.CoreCompileInputs.cache
+/home/aluno/Documentos/LUAN SIMOES/PWA/2BIMESTRE/aula_26-05-23/Biblioteca/bin/Debug/net7.0/Biblioteca.deps.json
+/home/aluno/Documentos/LUAN SIMOES/PWA/2BIMESTRE/aula_26-05-23/Biblioteca/bin/Debug/net7.0/Biblioteca.dll
+/home/aluno/Documentos/LUAN SIMOES/PWA/2BIMESTRE/aula_26-05-23/Biblioteca/bin/Debug/net7.0/Biblioteca.pdb
+/home/aluno/Documentos/LUAN SIMOES/PWA/2BIMESTRE/aula_26-05-23/Biblioteca/obj/Debug/net7.0/Biblioteca.dll
+/home/aluno/Documentos/LUAN SIMOES/PWA/2BIMESTRE/aula_26-05-23/Biblioteca/obj/Debug/net7.0/refint/Biblioteca.dll
+/home/aluno/Documentos/LUAN SIMOES/PWA/2BIMESTRE/aula_26-05-23/Biblioteca/obj/Debug/net7.0/Biblioteca.pdb
+/home/aluno/Documentos/LUAN SIMOES/PWA/2BIMESTRE/aula_26-05-23/Biblioteca/obj/Debug/net7.0/ref/Biblioteca.dll

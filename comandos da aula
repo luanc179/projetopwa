@@ -1,0 +1,9 @@
+dotnet new sln
+dotnet new classlib -o Biblioteca
+dotnet sln add Biblioteca/Biblioteca.csproj
+dotnet build
+dotnet new console -o AppConsole
+dotnet sln add AppConsole/AppConsole.csproj
+dotnet run --project AppConsole/AppConsole.csproj
+dotnet add AppConsole/AppConsole.csproj reference Biblioteca/Biblioteca.csproj
+
